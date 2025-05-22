@@ -1,4 +1,4 @@
-AlignLayers : README
+AlignLayers : README_jp
 ===========================================================
 
 -------------------
@@ -59,7 +59,7 @@ Copyright (c) 2025 bo-you
 
 
 
-AlignLayers : README
+AlignLayers : README_en
 ===========================================================
 
 -------------------
